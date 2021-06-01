@@ -1,6 +1,6 @@
 MINIGEN: Small utility for minixsf creation assistance
 ======================================================
-[![Travis Build Status](https://travis-ci.org/loveemu/minigen.svg?branch=master)](https://travis-ci.org/loveemu/minigen) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/qr3a767i6pr975bw/branch/master?svg=true)](https://ci.appveyor.com/project/loveemu/minigen/branch/master)
+[![Travis Build Status](https://travis-ci.com/loveemu/minigen.svg?branch=master)](https://travis-ci.com/loveemu/minigen) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/qr3a767i6pr975bw/branch/master?svg=true)](https://ci.appveyor.com/project/loveemu/minigen/branch/master)
 
 Minigen is a small binary file creation utility for numbered custom minipsf blocks.
 
